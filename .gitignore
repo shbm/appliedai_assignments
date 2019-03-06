@@ -1,1 +1,3 @@
-dataset
+database.sqlite
+final_pickle
+.ipynb_checkpoints
